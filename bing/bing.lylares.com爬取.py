@@ -78,4 +78,5 @@ def main():
        print('Admission failed!')
     else:
        print('Admission totally completed!')
+       
 main()
